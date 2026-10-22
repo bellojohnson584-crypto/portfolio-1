@@ -293,12 +293,11 @@ h1{
     display: inline-block;
     background: #ff4b0b;
     color: white;
-    padding: 8px 22px;
-    border-radius: 30px;
-    font-size: 22px;
+    font-size: 14px;
     font-weight: 600;
-    margin-bottom: 25px;
-    
+    padding: 5px 13px;
+    border-radius: 20px;
+    margin-bottom: 18px;
 }
 
 .section-heading h2 {
@@ -421,13 +420,13 @@ h1{
     margin: 0;
     font-size: 36px;
     line-height: 1.15;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .orange-line {
     width: 44px;
     height: 4px;
-    background: #ff4b0b;
+    background: #ff0b34;
     margin: 22px auto 65px;
 }
 
@@ -617,7 +616,7 @@ Code
 /* ===== WORKS ===== */
 
 .portfolio {
-    padding: 80px 30px;
+    padding: 20px 10px;
     background: white;
 
 }
@@ -739,7 +738,7 @@ Code
 }
 
 .faq {
-    padding: 80px 30px;
+    padding: 100px 60px;
     background: #f7f7f7;
 }
 
